@@ -1,0 +1,21 @@
+Recycable
+-clothes
+-fruit
+-food
+-leaf
+-Tissue
+-paper
+-plastic Bottle
+
+Non-Recycable
+-Thermometer
+-battery
+-Glasss
+-Metal
+-Diapers
+-mask
+-plastic bag
+-pen
+-lamp
+-plaster
+
