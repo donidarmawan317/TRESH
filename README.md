@@ -16,6 +16,11 @@ We made the application what it can be classification the waste garbage with the
 We hope our project provide benefits to the wide society. 
 This application that we made named Tresh.
 
+## Our Reposiroty
+**Cloud Computing**
+https://github.com/donidarmawan317/TREsh/tree/main/auth-api-nodejs
+
+
 ## Dataset
 
 We use dataset about waste Classification, garbage collection, and recycle and nonrecycle garbage to build and train the Model. We use dataset from kaggle, there is:
