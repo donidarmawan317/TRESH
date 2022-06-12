@@ -17,9 +17,9 @@ We hope our project provide benefits to the wide society.
 This application that we made named Tresh.
 
 ## Our Repository
-**Mobile Development**
 
-**Machine Learning**
+**Mobile Development**
+https://github.com/donidarmawan317/TREsh/tree/main/Android%20Development
 
 **Cloud Computing**
 https://github.com/donidarmawan317/TREsh/tree/main/auth-api-nodejs
