@@ -1,2 +1,2 @@
 This is TREsh application
-note : please import ML model first before running the app
+note : please import ML model on ML folder first before running the app
