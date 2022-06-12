@@ -16,10 +16,13 @@ We made the application what it can be classification the waste garbage with the
 We hope our project provide benefits to the wide society. 
 This application that we made named Tresh.
 
-## Our Reposiroty
+## Our Repository
+**Mobile Development**
+
+**Machine Learning**
+
 **Cloud Computing**
 https://github.com/donidarmawan317/TREsh/tree/main/auth-api-nodejs
-
 
 ## Dataset
 
